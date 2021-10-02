@@ -1,4 +1,4 @@
-const apiKey = "RGAPI-88e190b7-f359-4955-8f4f-08d5419d53c0";
+const apiKey = "";
 import express from "express";
 import fetch from "node-fetch";
 import { dirname } from "path";
